@@ -1,0 +1,110 @@
+[
+  {
+    "id": "Q01",
+    "category": "easy",
+    "question": "How many paid vacation days do full-time employees receive each calendar year?",
+    "expected_answer": "Full-time employees receive 25 days of paid time off per calendar year, in addition to public holidays observed at their office location."
+  },
+  {
+    "id": "Q02",
+    "category": "easy",
+    "question": "What is the minimum stable internet speed required for remote work?",
+    "expected_answer": "The minimum is 25 Mbps download and 5 Mbps upload."
+  },
+  {
+    "id": "Q03",
+    "category": "easy",
+    "question": "What are NovaTech's three office locations?",
+    "expected_answer": "Munich, Germany; Lisbon, Portugal; and Austin, Texas, USA."
+  },
+  {
+    "id": "Q04",
+    "category": "easy",
+    "question": "What is the quarterly recognized revenue reported for Q1 2026?",
+    "expected_answer": "Q1 2026 quarterly recognized revenue was EUR 4.8 million."
+  },
+  {
+    "id": "Q05",
+    "category": "easy",
+    "question": "What is the uptime SLA for the Enterprise tier?",
+    "expected_answer": "The Enterprise tier has a 99.95% monthly uptime SLA."
+  },
+  {
+    "id": "Q06",
+    "category": "medium",
+    "question": "Compare the Starter, Professional, and Enterprise support response times for a critical service outage.",
+    "expected_answer": "For a critical service outage, the response times are 4 hours for Starter, 1 hour for Professional, and 15 minutes for Enterprise."
+  },
+  {
+    "id": "Q07",
+    "category": "medium",
+    "question": "How does the handbook's remote-work policy differ from the change approved in the March 5 leadership meeting?",
+    "expected_answer": "The handbook states that eligible employees may work remotely up to 3 days per week with manager approval and that each team designates at least one in-office day. The March 5 meeting notes record a change effective Q3 2026 to up to 4 remote days per week, with Tuesday as the company-wide mandatory in-office day; department heads may add in-office requirements with HR approval."
+  },
+  {
+    "id": "Q08",
+    "category": "medium",
+    "question": "What were the Q1 2026 revenue contributions and year-over-year growth rates of ProjectHub and Insight?",
+    "expected_answer": "ProjectHub generated EUR 3.36 million, representing 70% of revenue and 26% year-over-year growth. Insight generated EUR 1.20 million, representing 25% of revenue and 31% year-over-year growth."
+  },
+  {
+    "id": "Q09",
+    "category": "medium",
+    "question": "What are the main differences in encryption and authentication requirements for Confidential versus Restricted data?",
+    "expected_answer": "Both Confidential and Restricted data require AES-256 encryption at rest and TLS 1.3 in transit. Confidential data requires SSO plus MFA, while Restricted data requires SSO plus MFA plus a hardware token."
+  },
+  {
+    "id": "Q10",
+    "category": "medium",
+    "question": "What are the paid sick-leave entitlement and medical-certificate requirement?",
+    "expected_answer": "Employees are entitled to 10 paid sick days per calendar year. A medical certificate is required for absences exceeding 3 consecutive working days, and sick days do not carry over."
+  },
+  {
+    "id": "Q11",
+    "category": "medium",
+    "question": "What did the leadership team decide about employee password rotation, and which credentials were excluded from the change?",
+    "expected_answer": "The March 5 meeting notes record a change from 90-day to 180-day password rotation for employee user accounts, effective immediately. Infrastructure credentials, including SSH keys and service accounts, remain on a 90-day rotation."
+  },
+  {
+    "id": "Q12",
+    "category": "medium",
+    "question": "Summarize NovaTech's Q1 2026 financial performance using ARR, quarterly revenue, and net revenue retention.",
+    "expected_answer": "At the end of Q1 2026, ARR was EUR 18.2 million, up 23% year over year; quarterly recognized revenue was EUR 4.8 million, up 29.7% year over year; and net revenue retention was 112%, compared with 108% in Q4 2025."
+  },
+  {
+    "id": "Q13",
+    "category": "hard",
+    "question": "A customer needs a 15-minute critical-incident response, 24/7 support, and a dedicated support manager. Which product tier meets all three requirements?",
+    "expected_answer": "Enterprise. Its critical-incident response target is 15 minutes, and Enterprise customers receive 24/7 support with a dedicated support manager."
+  },
+  {
+    "id": "Q14",
+    "category": "hard",
+    "question": "An employee wants to work remotely from another country for 7 consecutive business days. What approvals and advance notice are required by the handbook?",
+    "expected_answer": "The handbook says remote work must be performed from the employee's registered country of employment. Working from another country for more than 5 consecutive business days requires prior HR approval, and the request must be submitted at least 4 weeks in advance."
+  },
+  {
+    "id": "Q15",
+    "category": "hard",
+    "question": "What operating margin does the company expect in Q2 2026, and what factors support the recovery?",
+    "expected_answer": "The company expects operating margins to recover to 9–11% in Q2 2026 as Lisbon office setup costs are fully absorbed and the new hires reach productivity targets."
+  },
+  {
+    "id": "Q16",
+    "category": "hard",
+    "question": "A suspicious event involves a phishing email that was clicked, but no credentials were submitted. What severity level and response timeline does the security policy specify?",
+    "expected_answer": "The policy lists a phishing email that was clicked without credentials being submitted as a P3 (Medium) example. P3 incidents must be acknowledged within 4 hours; an analyst is assigned and escalation is assessed within 8 hours; and a written summary is due within 3 business days."
+  },
+  {
+    "id": "Q17",
+    "category": "unanswerable",
+    "question": "What is the exact annual base salary of NovaTech's Chief Technology Officer?",
+    "expected_answer": "I cannot find this information in the provided documents."
+  },
+  {
+    "id": "Q18",
+    "category": "unanswerable",
+    "question": "What is the personal mobile phone number of the Head of Human Resources?",
+    "expected_answer": "I cannot find this information in the provided documents."
+  }
+]

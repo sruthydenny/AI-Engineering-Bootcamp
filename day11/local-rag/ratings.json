@@ -1,0 +1,74 @@
+{
+  "Q01": {
+    "passed": false,
+    "rating_note": "Missing that public holidays are additional"
+  },
+  "Q02": {
+    "passed": true,
+    "rating_note": "Correct"
+  },
+  "Q03": {
+    "passed": false,
+    "rating_note": "Missing Portugal and Texas, USA"
+  },
+  "Q04": {
+    "passed": true,
+    "rating_note": "Correct"
+  },
+  "Q05": {
+    "passed": true,
+    "rating_note": "Correct"
+  },
+  "Q06": {
+    "passed": true,
+    "rating_note": "Correct"
+  },
+  "Q07": {
+    "passed": false,
+    "rating_note": "Missing the handbook's team in-office-day requirement"
+  },
+  "Q08": {
+    "passed": false,
+    "rating_note": "Correct revenue amounts and growth rates, but missing the 70% and 25% revenue shares"
+  },
+  "Q09": {
+    "passed": false,
+    "rating_note": "Incorrect authentication requirements"
+  },
+  "Q10": {
+    "passed": true,
+    "rating_note": "Correctly includes that sick days do not carry over"
+  },
+  "Q11": {
+    "passed": true,
+    "rating_note": "Correct"
+  },
+  "Q12": {
+    "passed": false,
+    "rating_note": "Incorrect NRR comparison; expected 108% in Q4 2025, not 105%"
+  },
+  "Q13": {
+    "passed": true,
+    "rating_note": "Correctly identifies Enterprise as meeting all three requirements"
+  },
+  "Q14": {
+    "passed": true,
+    "rating_note": "Correct HR approval and four-week advance notice"
+  },
+  "Q15": {
+    "passed": true,
+    "rating_note": "Correct"
+  },
+  "Q16": {
+    "passed": true,
+    "rating_note": "Correct P3 severity and response timelines"
+  },
+  "Q17": {
+    "passed": true,
+    "rating_note": "Correctly identifies that the information is not in the documents"
+  },
+  "Q18": {
+    "passed": true,
+    "rating_note": "Correctly identifies that the information is not in the documents"
+  }
+}
