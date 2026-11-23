@@ -1,0 +1,74 @@
+{
+  "execution_summary": {
+    "start_time": "2026-11-23T16:46:16.252113",
+    "end_time": "2026-11-23T16:46:20.341847",
+    "duration_seconds": 4.09,
+    "total_events": 7
+  },
+  "events": [
+    {
+      "timestamp": "2026-11-23T16:46:16.252118",
+      "event_type": "CREW_START",
+      "agent": "System",
+      "details": {
+        "message": "Crew execution started"
+      }
+    },
+    {
+      "timestamp": "2026-11-23T16:46:16.252279",
+      "event_type": "AGENT_INIT",
+      "agent": "Script Analyst",
+      "details": {
+        "tools": [
+          "sentiment_analyzer",
+          "soundtrack_recommender"
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-11-23T16:46:16.252414",
+      "event_type": "AGENT_INIT",
+      "agent": "Budget Manager",
+      "details": {
+        "tools": [
+          "budget_calculator"
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-11-23T16:46:16.252531",
+      "event_type": "AGENT_INIT",
+      "agent": "Market Researcher",
+      "details": {
+        "tools": [
+          "market_data_mcp"
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-11-23T16:46:16.253188",
+      "event_type": "TASK_START",
+      "agent": "Script Analyst",
+      "details": {
+        "task": "Script analysis"
+      }
+    },
+    {
+      "timestamp": "2026-11-23T16:46:20.341766",
+      "event_type": "TASK_COMPLETE",
+      "agent": "Script Analyst",
+      "details": {
+        "status": "success"
+      }
+    },
+    {
+      "timestamp": "2026-11-23T16:46:20.341858",
+      "event_type": "CREW_END",
+      "agent": "System",
+      "details": {
+        "message": "Crew execution completed",
+        "duration_seconds": 4.09
+      }
+    }
+  ]
+}
